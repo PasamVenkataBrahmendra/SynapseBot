@@ -1,0 +1,5 @@
+{
+  "name": "SynapseBot",
+  "description": "An AI-powered chatbot that can help with a variety of tasks. It offers a knowledge base for any question, a creative project builder, a troubleshooter for technical problems, and an inspiration generator.",
+  "requestFramePermissions": []
+}
